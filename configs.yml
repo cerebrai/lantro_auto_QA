@@ -1,0 +1,8 @@
+# -- Configs
+URL: https://visionsportsclub.com/group-x/
+start_date: 20240115
+end_date: 20240119
+main_table_id_prefix: mec_weekly_view_date_events843_
+elements_id: mec-timetable-event-span
+report_file_path: output/report.txt
+docx_file_path: data/schedule.docx
